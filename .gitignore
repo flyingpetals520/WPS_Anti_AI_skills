@@ -1,0 +1,7 @@
+# Local logs and temporary artifacts
+*.log
+*.tmp
+*.bak
+*.reg
+Thumbs.db
+.DS_Store
